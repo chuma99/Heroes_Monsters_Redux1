@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Armor
+comment1.params=armorName\ damageReduct
+comment1.target=Armor(java.lang.String,\ int)
+comment2.params=damage
+comment2.target=void\ setdamageReduct(int)
+comment2.text=public\ void\ interact(Hero\ hiro){\n\ \ \ \ \ \ \ \ System.out.println("he\ gives\ you\ Bronze\ Armor");\n\ \ \ \ \ \ \ \ damageReduct\ \=\ 1;\n}
+comment3.params=
+comment3.target=java.lang.String\ getArmorName()
+comment4.params=
+comment4.target=int\ getDamageReduct()
+numComments=5

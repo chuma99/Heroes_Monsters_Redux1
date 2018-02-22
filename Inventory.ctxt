@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=inventoryName\ inventorySize\ price
+comment1.target=Inventory(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getInventoryName()
+comment3.params=
+comment3.target=int\ getCurrentInventorySize()
+comment4.params=x
+comment4.target=void\ setCurrentInventorySize(int)
+numComments=5

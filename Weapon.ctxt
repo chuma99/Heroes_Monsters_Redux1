@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Weapon
+comment1.params=nameWeapon\ minDamage\ maxDamage\ attackFreq
+comment1.target=Weapon(java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ attackMonster()
+comment2.text=public\ void\ interact(Hero\ hiro){\r\n\ \ \ \ \ \ \ \ System.out.println("A\ farmer\ gives\ you\ a\ weapon");\r\n\ \ \ \ \ \ \ \ System.out.println("You\ got\ a"\ +\ nameWeapon);\r\n\ \ \ \ \ \ \ \ System.out.println(nameWeapon\ +\ "\ does\ "\ +\ minDamage\ +\r\n\ \ \ \ \ \ \ \ "-"\ +\ maxDamage\ +\ "damage");\r\n\ \ \ \ \ \ \ \ \r\n}
+comment3.params=
+comment3.target=java.lang.String\ getNameWeapon()
+numComments=4

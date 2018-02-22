@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sandal
+comment1.params=nameSandal\ hasLeatherSandal
+comment1.target=Sandal(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNameSandal()
+comment3.params=
+comment3.target=int\ getLeatherSandal()
+numComments=4

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=StoreFarmer
+comment1.params=farmerName\ xPos\ yPos\ quest\ battleAxe\ shortSword\ longSword\ energyPotion\ halfEnergyPotion\ satchel\ leatherSandal
+comment1.target=StoreFarmer(java.lang.String,\ int,\ int,\ int,\ Weapon,\ Weapon,\ Weapon,\ EnergyPotion,\ HalfEnergyPotion,\ Inventory,\ Sandal)
+numComments=2

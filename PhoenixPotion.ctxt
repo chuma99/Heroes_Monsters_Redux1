@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PhoenixPotion
+comment1.params=potionName\ xPos\ yPos
+comment1.target=PhoenixPotion(java.lang.String,\ int,\ int)
+comment2.params=hiro
+comment2.target=void\ usePotion(Hero)
+comment3.params=
+comment3.target=int\ getCountPotion()
+numComments=4

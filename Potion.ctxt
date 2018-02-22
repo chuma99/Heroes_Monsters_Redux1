@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Potion
+comment1.params=n\ x\ y
+comment1.target=Potion(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getpotionName()
+comment3.params=
+comment3.target=int\ getxPosPotion()
+comment4.params=
+comment4.target=int\ getyPosPotion()
+numComments=5

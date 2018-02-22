@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LowMonster
+comment1.params=xPosMonster\ yPosMonster\ attack\ health\ speed\ direction
+comment1.target=LowMonster(int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=hiro
+comment2.target=void\ killMonster(Hero)
+comment2.text=public\ void\ killBoss(Hero\ hiro){\n\ \ \ \ Monster.countBoss--;\n\ \ \ \ hiro.setTotalCurrency(2);\n}
+comment3.params=hiro
+comment3.target=void\ interact(Hero)
+comment4.params=
+comment4.target=int\ getEscape()
+comment5.params=
+comment5.target=int\ getxPosMonster()
+comment6.params=
+comment6.target=int\ getyPosMonster()
+numComments=7

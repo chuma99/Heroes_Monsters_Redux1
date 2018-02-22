@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MapFarmer
+comment1.params=farmerName\ xPos\ yPos\ quest
+comment1.target=MapFarmer(java.lang.String,\ int,\ int,\ int)
+numComments=2
